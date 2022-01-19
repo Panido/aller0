@@ -1,0 +1,5 @@
+- 👋 Hi, I’m allero
+- 👀 I’m interested in coding, cybersecurity and devolopping
+- 🌱 I’m currently learning C#, C++ and html
+- 💞️ I’m looking to collaborate on nothing currently
+- 📫 How to reach me: hiim3232v2@gmail.com
